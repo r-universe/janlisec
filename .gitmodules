@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CorMID"]
+	path = CorMID
+	url = https://github.com/cran/CorMID
+	shallow = true
+	registered = true
+[submodule "CorrectOverloadedPeaks"]
+	path = CorrectOverloadedPeaks
+	url = https://github.com/cran/CorrectOverloadedPeaks
+	shallow = true
+	registered = true
+[submodule "HiResTEC"]
+	path = HiResTEC
+	url = https://github.com/cran/HiResTEC
+	shallow = true
+	registered = true
+[submodule "InterpretMSSpectrum"]
+	path = InterpretMSSpectrum
+	url = https://github.com/cran/InterpretMSSpectrum
+	shallow = true
+	registered = true
+[submodule "IsoCor"]
+	path = IsoCor
+	url = https://github.com/cran/IsoCor
+	shallow = true
+	registered = true
+[submodule "MetabolomicsBasics"]
+	path = MetabolomicsBasics
+	url = https://github.com/cran/MetabolomicsBasics
+	shallow = true
+	registered = true

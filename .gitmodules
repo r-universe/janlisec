@@ -13,7 +13,7 @@
 	url = https://github.com/cran/HiResTEC
 [submodule "InterpretMSSpectrum"]
 	path = InterpretMSSpectrum
-	url = https://github.com/cran/InterpretMSSpectrum
+	url = https://github.com/janlisec/interpretmsspectrum
 [submodule "IsoCor"]
 	path = IsoCor
 	url = https://github.com/cran/IsoCor

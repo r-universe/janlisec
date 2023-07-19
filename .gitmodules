@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "CorMID"]
 	path = CorMID
-	url = https://github.com/cran/CorMID
+	url = https://github.com/janlisec/cormid
 [submodule "CorrectOverloadedPeaks"]
 	path = CorrectOverloadedPeaks
 	url = https://github.com/cran/CorrectOverloadedPeaks

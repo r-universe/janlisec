@@ -16,7 +16,7 @@
 	url = https://github.com/janlisec/interpretmsspectrum
 [submodule "IsoCor"]
 	path = IsoCor
-	url = https://github.com/cran/IsoCor
+	url = https://github.com/janlisec/isocor
 [submodule "MetabolomicsBasics"]
 	path = MetabolomicsBasics
 	url = https://github.com/cran/MetabolomicsBasics

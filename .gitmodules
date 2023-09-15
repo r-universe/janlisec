@@ -7,7 +7,7 @@
 	url = https://github.com/janlisec/cormid
 [submodule "CorrectOverloadedPeaks"]
 	path = CorrectOverloadedPeaks
-	url = https://github.com/cran/CorrectOverloadedPeaks
+	url = https://github.com/janlisec/correctoverloadedpeaks
 [submodule "HiResTEC"]
 	path = HiResTEC
 	url = https://github.com/cran/HiResTEC

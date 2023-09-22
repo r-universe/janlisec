@@ -20,3 +20,7 @@
 [submodule "MetabolomicsBasics"]
 	path = MetabolomicsBasics
 	url = https://github.com/cran/MetabolomicsBasics
+[submodule "shinyalert"]
+	path = shinyalert
+	url = https://github.com/daattali/shinyalert
+	registered = false

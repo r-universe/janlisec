@@ -10,7 +10,7 @@
 	url = https://github.com/janlisec/correctoverloadedpeaks
 [submodule "HiResTEC"]
 	path = HiResTEC
-	url = https://github.com/cran/HiResTEC
+	url = https://github.com/janlisec/hirestec
 [submodule "InterpretMSSpectrum"]
 	path = InterpretMSSpectrum
 	url = https://github.com/janlisec/interpretmsspectrum

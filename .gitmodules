@@ -20,6 +20,9 @@
 [submodule "MetabolomicsBasics"]
 	path = MetabolomicsBasics
 	url = https://github.com/janlisec/metabolomicsbasics
+[submodule "eCerto"]
+	path = eCerto
+	url = https://github.com/janlisec/ecerto
 [submodule "shinyalert"]
 	path = shinyalert
 	url = https://github.com/daattali/shinyalert

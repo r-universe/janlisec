@@ -23,3 +23,6 @@
 [submodule "eCerto"]
 	path = eCerto
 	url = https://github.com/janlisec/ecerto
+[submodule "fioRa"]
+	path = fioRa
+	url = https://github.com/janlisec/fiora
